@@ -21,16 +21,9 @@ func alternatingCharacters(s: String) -> Int {
     }
     return res
 }
-//
-//
+
 print(alternatingCharacters(s: "AAABBB"))
 print(alternatingCharacters(s: "AAAA"))
 print(alternatingCharacters(s: "BBBB"))
 print(alternatingCharacters(s: "ABABABAB"))
 print(alternatingCharacters(s: "BABABA"))
-//5
-//AAAA
-//BBBBB
-//ABABABAB
-//BABABA
-//AAABBB
